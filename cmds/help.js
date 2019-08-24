@@ -1,7 +1,7 @@
 const menus = {
     main: `
       outside [command] <options>
-  
+      forecast .............. show weather for tommorow
       today .............. show weather for today
       version ............ show package version
       help ............... show help menu for a command`,
