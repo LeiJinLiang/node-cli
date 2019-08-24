@@ -1,0 +1,12 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
