@@ -4,6 +4,7 @@
 + > run `npm link`
 + > ## Usage ##
     + > run command `aj74` 
+    
 ``
     outside [command] <options>
     forecast .............. show weather for tommorow
